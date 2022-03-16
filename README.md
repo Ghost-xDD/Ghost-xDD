@@ -3,7 +3,7 @@
 I am Ademola Adebowale, an enthusiastic Front-End Developer who creates modern websites, landing pages and single-page web appications.
 
 💡 I like to explore new trends and learn new technologies
-🌱 I’m currently learning Node Js
+🌱 I’m currently working with React Js
 
 
 
