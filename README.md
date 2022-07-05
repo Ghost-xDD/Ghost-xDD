@@ -2,9 +2,11 @@
 
 I am Ademola Adebowale, an enthusiastic Front-End Developer who creates modern websites, landing pages and single-page web appications.
 
-- 💡 I like to explore new trends and learn new technologies
-- 🌱 I’m currently working with React Js
-- 💬 Ask me about React Js, Javascript
+- 💻 I like to explore new trends and learn new technologies
+- 💻 I’m currently working with HTML5, CSS3, TailwindCss, Bootstrap, Firebase, Javascript, React.Js and Next.js
+- 💻 I also use Solidity, Hardhat, Ethers.js & Openzeppelin for Blockchain development.
+- 💻 I'm open to collaborate on new projects and ideas.
+- Email: ademolajohn844@gmail.com
 
 
 
