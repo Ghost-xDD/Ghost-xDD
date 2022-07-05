@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ademola Adebowale, an enthusiastic Front-End Developer who creates modern websites, landing pages and single-page web appications.
+I am Ademola Adebowale
 
 - 💻 I like to explore new trends and learn new technologies
 - 💻 I’m currently working with HTML5, CSS3, TailwindCss, Bootstrap, Firebase, Javascript, React.Js and Next.js
